@@ -1,24 +1,24 @@
 {
   "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6258/dados/br/br-c0001-e006258-u.json",
   "data_tse": "25/10/2026",
-  "hora_tse": "22:05:12",
-  "consultado_em_utc": "2026-10-26T01:06:02+00:00",
-  "secoes_totalizadas": 499148,
-  "secoes_totalizadas_pct": "99,98",
+  "hora_tse": "23:26:38",
+  "consultado_em_utc": "2026-10-26T06:14:24+00:00",
+  "secoes_totalizadas": 499248,
+  "secoes_totalizadas_pct": "100,00",
   "candidatos": [
     {
       "numero": "13",
       "nome": "LULA",
-      "votos": 64241786,
-      "percentual": 51.78
+      "votos": 64256232,
+      "percentual": 51.79
     },
     {
       "numero": "22",
       "nome": "FLAVIO BOLSONARO",
-      "votos": 59818887,
-      "percentual": 48.22
+      "votos": 59826041,
+      "percentual": 48.21
     }
   ],
-  "diferenca_votos": 4422899,
-  "diferenca_pontos_percentuais": 3.56
+  "diferenca_votos": 4430191,
+  "diferenca_pontos_percentuais": 3.58
 }
